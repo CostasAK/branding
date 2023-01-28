@@ -14,5 +14,11 @@
     "name": "GitHub Dark",
     "fg": "0d1117",
     "bg": "f0f6fc"
+  },
+  {
+    "name": "npmjs",
+    "shape": "circle",
+    "fg": "231f20",
+    "bg": "ffffff"
   }
 ]
