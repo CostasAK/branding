@@ -1,0 +1,18 @@
+[
+  {
+    "name": "BW",
+    "fg": "000000",
+    "bg": "ffffff"
+  },
+  {
+    "name": "Discord AMOLED",
+    "shape": "square",
+    "fg": "121315",
+    "bg": "f9fbfa"
+  },
+  {
+    "name": "GitHub Dark",
+    "fg": "0d1117",
+    "bg": "f0f6fc"
+  }
+]
