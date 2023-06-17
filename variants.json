@@ -6,7 +6,6 @@
   },
   {
     "name": "Discord AMOLED",
-    "shape": "square",
     "fg": "121315",
     "bg": "f9fbfa"
   },
@@ -16,9 +15,18 @@
     "bg": "f0f6fc"
   },
   {
-    "name": "npmjs",
-    "shape": "circle",
-    "fg": "231f20",
+    "name": "Spotify Daily Drive",
+    "fg": "c3f26b",
+    "bg": "172e5c"
+  },
+  {
+    "name": "TU Delft",
+    "fg": "ffffff",
+    "bg": "00A6D6"
+  },
+  {
+    "name": "Mastodon",
+    "fg": "282c37",
     "bg": "ffffff"
   }
 ]
