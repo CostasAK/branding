@@ -11,13 +11,28 @@
   },
   {
     "name": "GitHub Dark",
-    "fg": "0d1117",
-    "bg": "f0f6fc"
+    "fg": "010409",
+    "bg": "e6edf3"
+  },
+  {
+    "name": "Signal",
+    "fg": "ffffff",
+    "bg": "2e69f2"
   },
   {
     "name": "Spotify Daily Drive",
     "fg": "c3f26b",
     "bg": "172e5c"
+  },
+  {
+    "name": "Telegram",
+    "fg": "ffffff",
+    "bg": "21a5e4"
+  },
+  {
+    "name": "TNO",
+    "fg": "ffffff",
+    "bg": "002484"
   },
   {
     "name": "TU Delft",
@@ -28,5 +43,15 @@
     "name": "Mastodon",
     "fg": "282c37",
     "bg": "ffffff"
+  },
+  {
+    "name": "Wordfeud",
+    "fg": "010001",
+    "bg": "fffcf7"
+  },
+  {
+    "name": "YouTube",
+    "fg": "ffffff",
+    "bg": "ff0000"
   }
 ]

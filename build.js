@@ -28,11 +28,11 @@ function eliminateOtherShapes(svgString, shape) {
 
 for (variant of variants) {
   const newSvgString = svgString
-    .replace(/fill="#000001"/gi, `fill="#${variant.fg || '000" opacity="0'}"`)
     .replace(
       /fill="#ff?ff?ff?"/gi,
       `fill="#${variant.bg || 'fff" opacity="0'}"`
-    );
+    )
+    .replace(/fill="#000001"/gi, `fill="#${variant.fg || '000" opacity="0'}"`);
 
   for (shape of known_shapes) {
     const { data } = optimize(eliminateOtherShapes(newSvgString, shape), {
