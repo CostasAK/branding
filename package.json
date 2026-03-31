@@ -32,6 +32,6 @@
     "xml-js": "^1.6.11"
   },
   "dependencies": {
-    "convert-svg-to-png": "^0.6.4"
+    "convert-svg-to-png": "^0.7.1"
   }
 }
